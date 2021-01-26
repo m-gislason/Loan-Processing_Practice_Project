@@ -1,5 +1,5 @@
 # Loan-Processing_Practice_Project
-Implementation of loan-processing exercise.
+Implementation of loan-processing exercise. There is a READme explaining the problem's inputs/outputs in src/main/java.
 
 Relevant source files:
 - /src/main/java/Application.java
